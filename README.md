@@ -26,8 +26,8 @@ Before you begin, make sure you have the following installed on your machine:
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/vaibhav_nk/rule-engine.git
-   cd rule-engine
+   git clone https://github.com/Vaibhav-nk-git/AST-Rule-Engine.git
+   cd AST-Rule-Engine
    ```
 
 2. **Build and Run the Application**:
